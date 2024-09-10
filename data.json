@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "name": "Tarun Krishna",
+            "age": "129",
+            "major": "CSE"
+        },
+        {
+            "name": "Lucy",
+            "age": "420",
+            "major": "MECH"
+        },
+        {
+            "name": "Sudas",
+            "age": "69",
+            "major": "physics"
+        }
+    ]
+}
